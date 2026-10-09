@@ -1,0 +1,1 @@
+# FastAPI - ambientes, testes e CI (CD na parte 2)
